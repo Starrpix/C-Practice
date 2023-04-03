@@ -12,5 +12,38 @@ Sample Output
 Ocean
 */
 
+#include <iostream>
+#include <string>
+using namespace std;
+
+class Painting {
+    public:
+    Painting(string nm){
+        setName(nm);
+    }
+    void setName(string x) {
+        name = x;
+    }
+
+    string getName() {
+        return name;
+    }
+    private:
+    string name;
+    
+        
+};
+
+int main() {
+    string name;
+    cin >> name;
+
+    Painting obj1(name);
+    cout << obj1.getName();
+
+}
+
+
+
 
 
