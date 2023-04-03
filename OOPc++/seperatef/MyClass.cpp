@@ -1,7 +1,7 @@
+#include <iostream>
 #include "MyClass.h"
+using namespace std;
 
-MyClass::MyClass()
-{
-   //ctor
+int main() {
+  MyClass obj;
 }
-
