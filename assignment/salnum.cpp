@@ -5,30 +5,24 @@
 using namespace std;
 
 int main(){
-int a[99],k,i,j,small[99],large[99];
+int a[99],k,i,j,small,large;
 cout<<"Enter the length of array:"<<endl;
 cin>>k;
 for(i=0; i<k ; i++){
     cout<<"Enter elements in the array:"<<endl;
     cin>>a[i];
 }
+large=small=a[0];
 
-for(i=0; i<k ; i++){
-for(j=1; j<k ; j++){
-    if(a[i]>a[j]){
-        a[j]=a[i];
-        a[i]=a[j];
-        small[i]=a[j];
-        
+ for(i=0; i<k; i++){
+    if(large<a[i]){
+        large=a[i];
     }
-    else{
-
-
+    if(small>a[i]){
+        small=a[i];
     }
-}
-
-}
-
-
+    }
+cout<<"Largest number is:"<<large<<endl;
+cout<<"Smallest number is:"<<small<<endl;  
     return 0;
 }
