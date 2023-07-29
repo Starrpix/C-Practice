@@ -1,0 +1,25 @@
+QUESTION|What is the capital of France?|OPTION|London|Berlin|Paris|Madrid|CORRECT_OPTION|3|DIFFICULTY_LEVEL|1
+QUESTION|Which planet is closest to the Sun?|OPTION|Mars|Venus|Earth|Mercury|CORRECT_OPTION|4|DIFFICULTY_LEVEL|1
+QUESTION|What is the chemical symbol for water?|OPTION|O|N|W|H2O|CORRECT_OPTION|4|DIFFICULTY_LEVEL|2
+QUESTION|Who painted the Mona Lisa?|OPTION|Picasso|Da Vinci|Rembrandt|Michelangelo|CORRECT_OPTION|2|DIFFICULTY_LEVEL|2
+QUESTION|What is the largest mammal on Earth?|OPTION|Elephant|Giraffe|Blue Whale|Horse|CORRECT_OPTION|3|DIFFICULTY_LEVEL|3
+QUESTION|In which country is the Great Barrier Reef located?|OPTION|Australia|Brazil|Canada|India|CORRECT_OPTION|1|DIFFICULTY_LEVEL|3
+QUESTION|Which gas is most abundant in the Earth's atmosphere?|OPTION|Oxygen|Carbon dioxide|Nitrogen|Hydrogen|CORRECT_OPTION|3|DIFFICULTY_LEVEL|2
+QUESTION|Which city is known as the "Big Apple"?|OPTION|Los Angeles|New York|Chicago|Houston|CORRECT_OPTION|2|DIFFICULTY_LEVEL|1
+QUESTION|What is the chemical symbol for gold?|OPTION|Au|Ag|G|Go|CORRECT_OPTION|1|DIFFICULTY_LEVEL|2
+QUESTION|What is the largest organ in the human body?|OPTION|Liver|Skin|Heart|Lung|CORRECT_OPTION|2|DIFFICULTY_LEVEL|1
+QUESTION|Who wrote the play "Romeo and Juliet"?|OPTION|William Shakespeare|Charles Dickens|Jane Austen|Mark Twain|CORRECT_OPTION|1|DIFFICULTY_LEVEL|2
+QUESTION|What is the national flower of Japan?|OPTION|Rose|Tulip|Cherry Blossom|Lily|CORRECT_OPTION|3|DIFFICULTY_LEVEL|1
+QUESTION|Which planet is known as the "Red Planet"?|OPTION|Mars|Venus|Mercury|Jupiter|CORRECT_OPTION|1|DIFFICULTY_LEVEL|2
+QUESTION|What is the chemical symbol for oxygen?|OPTION|O|Ox|Oxg|Oxy|CORRECT_OPTION|1|DIFFICULTY_LEVEL|1
+QUESTION|Who is known as the "Father of Modern Physics"?|OPTION|Albert Einstein|Isaac Newton|Galileo Galilei|Nikola Tesla|CORRECT_OPTION|1|DIFFICULTY_LEVEL|3
+QUESTION|Which country has the world's longest coastline?|OPTION|Canada|Australia|Russia|USA|CORRECT_OPTION|1|DIFFICULTY_LEVEL|2
+QUESTION|What is the chemical symbol for carbon?|OPTION|C|Ca|Co|Cr|CORRECT_OPTION|1|DIFFICULTY_LEVEL|1
+QUESTION|Which famous scientist developed the theory of general relativity?|OPTION|Isaac Newton|Albert Einstein|Stephen Hawking|Galileo Galilei|CORRECT_OPTION|2|DIFFICULTY_LEVEL|3
+QUESTION|What is the largest planet in our solar system?|OPTION|Mars|Venus|Earth|Jupiter|CORRECT_OPTION|4|DIFFICULTY_LEVEL|2
+QUESTION|In which country was the game of chess invented?|OPTION|China|India|Greece|Egypt|CORRECT_OPTION|2|DIFFICULTY_LEVEL|1
+QUESTION|Which famous physicist developed the theory of quantum mechanics?|OPTION|Stephen Hawking|Albert Einstein|Niels Bohr|Richard Feynman|CORRECT_OPTION|3|DIFFICULTY_LEVEL|3
+QUESTION|What is the chemical symbol for silver?|OPTION|S|Si|Ag|Sr|CORRECT_OPTION|3|DIFFICULTY_LEVEL|1
+QUESTION|Which country is known as the "Land of the Rising Sun"?|OPTION|China|Japan|Korea|Thailand|CORRECT_OPTION|2|DIFFICULTY_LEVEL|1
+QUESTION|Who wrote the novel "To Kill a Mockingbird"?|OPTION|George Orwell|Harper Lee|J.K. Rowling|Mark Twain|CORRECT_OPTION|2|DIFFICULTY_LEVEL|2
+QUESTION|What is the chemical symbol for helium?|OPTION|H|He|Ho|Hy|CORRECT_OPTION|2|DIFFICULTY_LEVEL|1

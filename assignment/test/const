@@ -1,0 +1,47 @@
+//Write a C+ Program to illustrate default constructor, parameterized constructor and copy constructorss
+
+#include <iostream>
+
+using namespace std;
+
+class MyClass {
+private:
+    int data;
+
+public:
+MyClass{
+data=0;
+cout<<"default constructor"<<endl;
+}
+
+MyClass(int da){
+    data= da;
+    cout<<"parameterized constructor"<<endl;
+}
+
+MyClass(const Myclass& other)
+{
+    data=other.data;
+    cout<<"Using copy constructor "<<other.data<<endl;
+}
+};
+
+int getData const(){
+    return data;
+}
+
+int main() {
+    // Default Constructor
+    MyClass obj1;
+    cout << "Data in obj1: " << obj1.getData() << endl;
+
+    // Parameterized Constructor
+    MyClass obj2(42);
+    cout << "Data in obj2: " << obj2.getData() << endl;
+
+    // Copy Constructor
+    MyClass obj3 = obj2;
+    cout << "Data in obj3: " << obj3.getData() << endl;
+
+    return 0;
+}
