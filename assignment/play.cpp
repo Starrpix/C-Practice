@@ -6,7 +6,7 @@ class String{
     public:
     char str[20];
     void getData(){
-        cout<<"Enter string"<<endl;
+        cout<<"Enter string 1"<<endl;
         cin>>str;
     }
     
